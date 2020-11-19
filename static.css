@@ -1,0 +1,158 @@
+.wrapper {
+    text-align: center;
+    margin: 0 auto;
+    top: 40px;
+    bottom: 20px;
+    width: 1500px;
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(135deg, #231437 0%, #2c385e 50%, #336e6b 100%);
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Graphik', Helvetica, Arial, sans-serif;
+    width: 100%;
+    height: 100%;
+}
+
+.first-section {
+    background-image: url("hulupage.jpg");
+    height: 100%;
+    text-align: right;
+}
+
+a {
+    font-weight: 600;
+    color: white;
+    font-size: 20px;
+    background: none;
+    margin: 20px 20px;
+    text-decoration: none;
+}
+
+.first-banner {
+    color: #2DBD9D;
+    font-size: 13px;
+    padding: 30px;
+    position: relative;
+    top: 60px;
+}
+
+.hulu {
+    color: lime;
+    font-size: 1em;
+    font-weight: 400;
+    font-size: 5em;
+    font-family: 'Graphik', Helvetica, Arial, sans-serif;
+    position: relative;
+    top: -70px;
+}
+
+.monthly {
+    margin: 0 auto;
+    color: white;
+    font-weight: bold;
+    font-size: 1.8em;
+    padding: 0px 120px;
+    overflow-wrap: break-word;
+    position: relative;
+    top: -170px;
+}
+
+.add-ons {
+    font: white;
+    bottom: 150px;
+    position: relative;
+}
+
+.trial {
+    font-size: 12px;
+    opacity: 0.5;
+    position: relative;
+    bottom: 60px;
+}
+
+.start {
+    /*opacity: 0.5; */
+    margin: 0 auto;
+    padding: 0px 15px;
+    width: 10em;
+    height: 2em;
+    position: relative;
+    bottom: 50px;
+}
+
+#start-button {
+    background-color: white;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0px 15px;
+    width: 25em;
+    height: 5em;
+    font: black;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    position: relative;
+    bottom: 70px;
+    right: 100px;
+}
+
+div.bottom-banner>p {
+    color: #2DBD9D;
+    height: auto;
+    padding: 10px 5px;
+    font-size: 1em;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+#channel-logo {
+    text-align: left;
+    float: left;
+    width: 25%;
+    max-width: 50%;
+}
+
+.get>p {
+    font-size: 5em;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.More-Details>a {
+    color: grey;
+    font-weight: normal;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+#bundle-button {
+    background-color: #2c385e;
+    background: transparent;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0px 10px;
+    width: 9em;
+    height: 3em;
+    color: white;
+    font-size: 15px;
+    border-radius: 4px;
+    border-color: white;
+    border: 2px solid;
+  
+}
+
+.bottom-frame {
+    background: black;
+    width: 100%;
+    text-align: center;
+}
+
+#hulu-bottom {
+    width: 80%;
+}
